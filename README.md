@@ -32,7 +32,7 @@ The following image demonstrates the application functionality:
 ![](./assets/image.png)
 
 ## Credits
-Starter code retrieved from ![](https://git.bootcampcontent.com/University-of-California---Irvine/UCI-VIRT-FSF-FT-08-2023-U-LOLC)
+Starter code retrieved from https://git.bootcampcontent.com/University-of-California---Irvine/UCI-VIRT-FSF-FT-08-2023-U-LOLC
 
 ## License
 License can be located at in the ![github repo](https://github.com/galvin-SH/timekeeper)
